@@ -21,12 +21,13 @@ Contains the source code of the traffic state estimations (TSE) methods, along w
 DATA (INPUT)
 Contains the initial input data i.e. the pNEUMA data
 - waypoints_w_dist.csv * for the trajectories (not in drive)
+Data Download from: https://syncandshare.lrz.de/getlink/fi6dTaQ1W6XXBoAPPsvvh9Ro/
 - veh_info_list.csv * for the vehicle information
 - experiment_list_info.csv * for information about the various experiments
 - polygons11.csv * for information about the 11 selected polygons (road segments, links)
 
 OUTPUT
-Contains the data the is returned by the code in SRC. 
+Will contain the data the is returned by the code in SRC. 
 - data_clean * for the cleansed data i.e. outliers removed, links filtered, etc.
 - data_flow * for the traffic variables of each mode for each link
 	- 'cars' * for the car mode using the mobile sensor approach (Edie's). Separate due to the penetration rate.
