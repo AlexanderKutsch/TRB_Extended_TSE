@@ -12,9 +12,7 @@ Contains the source code of the traffic state estimations (TSE) methods, along w
 - Analysis_0_clean_data.ipynb * for the cleansing and filtering of the data
 - Analysis_1_prepare_data.ipynb * for the derivation of the traffic variables
 - Analysis_2_process_data.ipynb * for the resampling and scaling of the data
-- Analysis_3_MLR.ipynb * for the MLR
 - Analysis_4_NN.ipynb * for the NN
-- Analysis_5_MLRFD.ipynb * for the MLRFD - physics-informed MLR
 - Analysis_6_NNFD.ipynb * for the NNFD - physics-informed NN
 - Analysis_7_Results.ipynb * for analysis of the results
 - functions_file.py * for general functions and the sensor scenarios, mainly for Analysis 0-2.
