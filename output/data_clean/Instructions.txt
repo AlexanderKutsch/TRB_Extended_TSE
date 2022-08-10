@@ -1,0 +1,2 @@
+Within this folder, the results from the 'Analysis_0_clean_data'-notebook will be stored.
+The results can also be downloaded from the website desribed in the ReadMe file.

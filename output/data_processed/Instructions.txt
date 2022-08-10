@@ -1,0 +1,3 @@
+In this folder, the results from the 'Analysis_2_process_data'-notebook will be stored. 
+The data will be available for every polygon alone, as well as a file combining all polygons, and the scalefactors for all polygons.
+The results for the single polygons can be downloaded from the website described in the ReadMe file.

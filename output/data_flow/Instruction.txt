@@ -1,0 +1,2 @@
+In this folder, the results from the 'Analysis_1_prepare_data'-notebook, step 3 will be stored. 
+The results can also be downloaded from the website described in the ReadMe-file.

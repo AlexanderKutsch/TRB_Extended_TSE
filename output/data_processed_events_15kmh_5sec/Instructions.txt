@@ -1,0 +1,2 @@
+In this folder, the results from 'Analysis_3_process_events' will be stored. The files contain all information for the intervals.
+It contains the the data for each polygon alone, as well as all data combined in one file.
